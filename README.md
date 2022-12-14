@@ -1,6 +1,6 @@
 
 # About me 
-Hello my name is Debarun Chakrabortty. I am a first year B-Tech student at IIT ISM Dhanbad from Electronics and Communication Engineering department.Some of my areas of intrest are robotics,IOT,blockchain ,devlopment etc.
+Hello my name is Debarun Chakrabortty. I am a second year B-Tech student at IIT ISM Dhanbad from Electronics and Communication Engineering department.Some of my areas of intrest are robotics,IOT,blockchain ,devlopment etc.
 
 # Understanding the problem 
 
